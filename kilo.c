@@ -68,3 +68,5 @@ int main()
     }
     return 0;
 }
+
+// Sunday, 10.45 PM Entering Raw Mode over
